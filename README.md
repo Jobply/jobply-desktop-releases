@@ -2,6 +2,8 @@
 
 Jobply is an automation tool designed to simplify and speed up the job application process. The desktop app helps users automatically fill and submit applications on various job sites, saving time and reducing manual effort.
 
+<img width="1709" height="1073" alt="image" src="https://github.com/user-attachments/assets/d34a7bc0-1bb9-46eb-83b6-9b51aa19357b" />
+
 ---
 
 ## Downloads
