@@ -10,7 +10,7 @@ Jobply is an automation tool designed to simplify and speed up the job applicati
 
 Choose the version for your operating system:
 
-- **[Windows (x64)](https://github.com/Jobply/jobply-desktop-releases/releases/latest/download/Jobply.exe)**  
+- **[Windows (x64)](https://github.com/Jobply/jobply-desktop-releases/releases/latest/download/Jobply-Setup.exe)**  
 - **[macOS (arm64)](https://github.com/Jobply/jobply-desktop-releases/releases/latest/download/Jobply-arm64.dmg)**  
 - **[macOS (x64)](https://github.com/Jobply/jobply-desktop-releases/releases/latest/download/Jobply-x64.dmg)**  
 
